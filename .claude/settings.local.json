@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c \"dir /s\")",
+      "Bash(dir /s)",
+      "Bash(cmd /c \"dir /s *.html *.js *.jsx *.ts *.tsx *.css *.scss *.json *.md\")",
+      "Bash(cmd /c \"dir /s E:\\\\book\\\\physical_ai_book\\\\book-docs\\\\src\")",
+      "Bash(dir /s \"E:\\\\book\\\\physical_ai_book\\\\book-docs\\\\src\")",
+      "Bash(dir /s \"E:\\\\book\\\\physical_ai_book\\\\book-docs\\\\src\\\\components\")",
+      "Bash(dir /s \"E:\\\\book\\\\physical_ai_book\\\\book-docs\\\\src\\\\theme\")"
+    ]
+  }
+}
